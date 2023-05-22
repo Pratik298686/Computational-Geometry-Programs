@@ -21,33 +21,9 @@
     <ClCompile Include="Menu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="IGeometry.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Line.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Point.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Circle.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Menu.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="IGeometry.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Line.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Point.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Circle.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

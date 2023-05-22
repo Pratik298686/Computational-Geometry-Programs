@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part8-Camera_1", "Part8-Camera.vcxproj", "{FF3E95AB-BB1C-4A9A-B699-4AA06B6EDE55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF3E95AB-BB1C-4A9A-B699-4AA06B6EDE55}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF3E95AB-BB1C-4A9A-B699-4AA06B6EDE55}.Debug|Win32.Build.0 = Debug|Win32
+		{FF3E95AB-BB1C-4A9A-B699-4AA06B6EDE55}.Release|Win32.ActiveCfg = Release|Win32
+		{FF3E95AB-BB1C-4A9A-B699-4AA06B6EDE55}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

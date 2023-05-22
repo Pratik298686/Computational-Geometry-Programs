@@ -25,6 +25,7 @@ int Menu::ShowMenu(vector<IGeometry*>& geometry)
 	{
 		IGeometry* pt = new Point();
 		pt->input();
+		//(*pt).input();
 		geometry.push_back(pt);
 	}
 	case 2:

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part6-Textures_1", "Part6-Textures_1.vcxproj", "{D6E3FBFD-7ECB-46F5-9174-801EB1A8F943}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part6-Textures_2", "Part6-Textures_2.vcxproj", "{F96602CC-D803-4D65-8816-BEC7E0B156CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6E3FBFD-7ECB-46F5-9174-801EB1A8F943}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D6E3FBFD-7ECB-46F5-9174-801EB1A8F943}.Debug|Win32.Build.0 = Debug|Win32
+		{D6E3FBFD-7ECB-46F5-9174-801EB1A8F943}.Release|Win32.ActiveCfg = Release|Win32
+		{D6E3FBFD-7ECB-46F5-9174-801EB1A8F943}.Release|Win32.Build.0 = Release|Win32
+		{F96602CC-D803-4D65-8816-BEC7E0B156CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F96602CC-D803-4D65-8816-BEC7E0B156CA}.Debug|Win32.Build.0 = Debug|Win32
+		{F96602CC-D803-4D65-8816-BEC7E0B156CA}.Release|Win32.ActiveCfg = Release|Win32
+		{F96602CC-D803-4D65-8816-BEC7E0B156CA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
